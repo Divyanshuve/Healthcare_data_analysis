@@ -1,7 +1,12 @@
 # Healthcare_data_analysis
 I,m sharing  my latest Data Analyst project on Heritage Hospital's(Hypothetical Name) sales dashboard for 2024.
 
-Using DAX, Power BI, Excel , I created this comprehensive dashboard to provide valuable insights into hospital operations. Here are some key objectives and solutions derived from the data:
+Using DAX, Power BI, Excel , I created this comprehensive dashboard to provide valuable insights into hospital operations. Here are some key objectives and solutions derived from the data and a glimpse into the process and the outcomes:
+Process:
+1. Data Collection: Gathered sales data from various sources and consolidated it into Excel.
+2. Data Cleaning: Ensured data accuracy and consistency by cleaning and transforming the data in Excel.
+3. Data Modeling: Used DAX to create calculated columns and measures for deeper analysis.
+4. Visualization: Leveraged Power BI to design an interactive and visually appealing dashboard.
 
 Objectives and Solutions:-
 
